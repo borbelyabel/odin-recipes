@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I made a website that has recipes of food that I like. There is a homepage with links to the recipes in a list. Each recipe page links back to the home page. The recipes have an image of the dishes they make. After a short description, lists of the ingredients and the steps to make the dish can be seen.
